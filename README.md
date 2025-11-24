@@ -17,16 +17,12 @@ Xaltius Academy
 Binaries:
 ---------
 - Project_BlackFrost.bin    -> Run on Linux (chmod +x before execution)
-- Project_BlackFrost.exe  -> Run on Windows
 
 Usage:
 ------
 Linux:
   $ chmod +x Project_BlackFrost.bin
   $ ./Project_BlackFrost.bin
-
-Windows:
-  Double-click Project_BlackFrost.exe or run via Command Prompt.
 
 Assets:
 -------
