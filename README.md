@@ -16,17 +16,17 @@ Xaltius Academy
 
 Binaries:
 ---------
-- Project_BlackFrost_Linux.bin    -> Run on Linux (chmod +x before execution)
-- Project_BlackFrost_Windows.exe  -> Run on Windows
+- Project_BlackFrost.bin    -> Run on Linux (chmod +x before execution)
+- Project_BlackFrost.exe  -> Run on Windows
 
 Usage:
 ------
 Linux:
-  $ chmod +x Project_BlackFrost_Linux.bin
-  $ ./Project_BlackFrost_Linux.bin
+  $ chmod +x Project_BlackFrost.bin
+  $ ./Project_BlackFrost.bin
 
 Windows:
-  Double-click Project_BlackFrost_Windows.exe or run via Command Prompt.
+  Double-click Project_BlackFrost.exe or run via Command Prompt.
 
 Assets:
 -------
@@ -40,6 +40,6 @@ Security:
 
 GitHub Deployment:
 -----------------
-- Only binaries, assets, and this README are included.
+- Only binaries, dist, and this README are included.
 - Python source, virtual environments, and build artifacts are excluded via .gitignore.
 
